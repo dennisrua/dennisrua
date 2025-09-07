@@ -3,7 +3,7 @@
 👨‍💻 Web Developer sharing my tech journey and lessons learned<br>
 👨‍🎓 Studied Business & IT at Mount Kenya University, Kenya<br>
 🎨 #learninginpublic — sharing what I build and break<br>
-💭 Currently learning JavaScript — DOM, APIs, and cool web stuff<br>
+💭 Currently learning Next.js — TypeScript, TailwindCSS, to build scalable web apps<br>
 🔧 Building stuff<br>🌍 Based in Kenya, coding with a global perspective<br>
 🧠 Curious mind | Clean code | Community-driven
 
